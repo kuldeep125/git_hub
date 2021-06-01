@@ -3,4 +3,7 @@ file contain user data
 data is secure
 made change in github
 line5
+<<<<<<< HEAD
 line6
+=======
+>>>>>>> db7da29... 1st commit
